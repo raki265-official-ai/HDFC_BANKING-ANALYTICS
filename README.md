@@ -539,7 +539,7 @@ HDFC_BANKING-ANALYTICS/
 ├── HDFC_BANKING_ANALYTICS_FINAL.pbix
 │
 ├── DATASETS/
-│   └── Banking CSV Datasets
+│   └── DATASETS.ZIP
 │
 └── ASSETS/
     ├── DEPOSITS VS TARGETS.png
