@@ -20,6 +20,18 @@ The dashboard is designed to support financial performance monitoring, regional 
 
 ---
 
+
+## 🎥 Project Presentation Video
+
+Watch the complete HDFC Banking Analytics & Business Intelligence Dashboard presentation on YouTube.
+
+[![Watch Project Presentation](https://img.youtube.com/vi/je7TW8_J7Dg/hqdefault.jpg)](https://youtu.be/je7TW8_J7Dg)
+
+[▶ Watch Full Presentation on YouTube](https://youtu.be/je7TW8_J7Dg)
+
+---
+
+
 ## 🎯 Business Objectives
 
 - Monitor total deposits against allocated deposit targets.
@@ -623,3 +635,8 @@ If you found this project insightful or useful, consider giving this repository 
 🚀 Transforming Data into Insights. Transforming Insights into Decisions.
 
 </div>
+
+
+## ❇️AUTHOR
+
+## PEDDURI RAKESH
